@@ -2,7 +2,7 @@
 
 A dashboard (webapp) for analysing and visualising various aspects of the  IPL(Indian Premier League) by making use of [this dataset.](https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset)
 
-The demo can be viewed from [here.](https://samarthtambad.github.io/ipl-dash/#/)
+The demo can be viewed from [here.](https://sidverma32.github.io/ipl-dash/#/)
 
 
 ## List of Frameworks used
